@@ -1,1 +1,1 @@
-# Classification-predictions-with-Python-and-Jupyter-Notebook
+# heart-disease classification predictions.
